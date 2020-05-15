@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios' display-mode='rendered'>
+    <pages>
+        <page name='Introduction'/>
+        <page name='Multi-pattern catch clauses'/>
+        <page name='Multiple trailing closures'/>
+        <page name='Synthesized Comparable conformance for enums'/>
+        <page name='self is no longer required in many places'/>
+        <page name='Type-Based Program Entry Points'/>
+        <page name='where clauses on contextually generic declarations'/>
+        <page name='New collection methods on noncontiguous elements'/>
+        <page name='Refined didSet Semantics'/>
+        <page name='A new Float16 type'/>
+        <page name='Swift Package Manager gains binary dependencies, resources, and  more'/>
+    </pages>
+</playground>
