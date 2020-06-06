@@ -8,7 +8,7 @@
         <page name='self is no longer required in many places'/>
         <page name='Type-Based Program Entry Points'/>
         <page name='where clauses on contextually generic declarations'/>
-        <page name='New collection methods on noncontiguous elements'/>
+        <page name='Enum cases as protocol witnesses'/>
         <page name='Refined didSet Semantics'/>
         <page name='A new Float16 type'/>
         <page name='Swift Package Manager gains binary dependencies, resources, and  more'/>

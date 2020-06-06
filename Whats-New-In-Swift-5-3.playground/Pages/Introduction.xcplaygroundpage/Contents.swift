@@ -14,7 +14,7 @@
  * [`self` is no longer required in many places](self%20is%20no%20longer%20required%20in%20many%20places)
  * [Type-Based Program Entry Points](Type-Based%20Program%20Entry%20Points)
  * [`where` clauses on contextually generic declarations](where%20clauses%20on%20contextually%20generic%20declarations)
- * [New collection methods on noncontiguous elements](New%20collection%20methods%20on%20noncontiguous%20elements)
+ * [Enum cases as protocol witnesses](Enum%20cases%20as%20protocol%20witnesses)
  * [Refined `didSet` Semantics](Refined%20didSet%20Semantics)
  * [A new Float16 type](A%20new%20Float16%20type)
  * [Swift Package Manager gains binary dependencies, resources, and  more](Swift%20Package%20Manager%20gains%20binary%20dependencies,%20resources,%20and%20%20more)

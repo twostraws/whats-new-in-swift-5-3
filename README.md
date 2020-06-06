@@ -8,7 +8,7 @@ This is an Xcode playground that demonstrates the new features introduced in Swi
 * `self` is no longer required in many places
 * Type-Based Program Entry Points
 * `where` clauses on contextually generic declarations
-* New collection methods on noncontiguous elements
+* Enum cases as protocol witnesses
 * Refined `didSet` Semantics
 * A new `Float16` type
 * Swift Package Manager gains binary dependencies, resources, and more
@@ -17,4 +17,4 @@ This is designed to complement my existing article [What’s New in Swift 5.3](h
 
 If you hit problems or have questions, you're welcome to tweet me [@twostraws](https://twitter.com/twostraws) or email <paul@hackingwithswift.com>.
 
-![Screenshot of Xcode 11.4 running this playground.](playground-screenshot.png)
+![Screenshot of Xcode 11.5 running this playground.](playground-screenshot.png)
